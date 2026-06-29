@@ -1,6 +1,1 @@
-﻿Python Fundamentals
-Data Structures
-Functions/Modules/Packages
-Command Line Arguments
-IO Operations
-Exception Handling
+﻿
